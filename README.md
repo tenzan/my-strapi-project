@@ -37,10 +37,10 @@ Start your 14-day free trial now!
 
 
 2. Created 4 customer roles under `Users & Permissions plugin>Roles`:
-    - custom-role-1 (with some random permissions on `Organization`)
-    - custom-role-2 (with some random permissions on `Organization`)
-    - custom-role-3 (with some random permissions on `Organization`)
-    - custom-role-4 (with some random permissions on `Organization`)
+    - custom-role-1
+    - custom-role-2
+    - custom-role-3
+    - custom-role-4
 
 4. Go to Content Manager
 
