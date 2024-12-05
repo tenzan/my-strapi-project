@@ -48,7 +48,7 @@ Start your 14-day free trial now!
 
 6. Click on drop-down list
 
-# Resul
+# Result
 
 Only the 1st 4 roles displayed:
   - Authenticated
